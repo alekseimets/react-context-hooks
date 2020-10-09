@@ -4,9 +4,9 @@ class BookList extends Component {
   render() {
     return <div className="book-list">
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>the way of kings</li>
+            <li>the name of the winfd</li>
+            <li>the final empire</li>
         </ul>
     </div>;
   }
