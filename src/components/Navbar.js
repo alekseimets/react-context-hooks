@@ -5,11 +5,11 @@ export class Navbar extends Component {
         return (
             <nav>
                 <h1>Context App</h1>
-                <uli>
+                <ul>
                     <li>Home</li>
                     <li>About</li>
                     <li>Contact</li>
-                </uli>
+                </ul>
             </nav>
         )
     }
